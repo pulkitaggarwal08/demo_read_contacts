@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReadContacts</string>
+    <string name="all_mobile_contacts">All Mobile Contacts</string>
+    <string name="all_contacts">All Contacts</string>
+</resources>
